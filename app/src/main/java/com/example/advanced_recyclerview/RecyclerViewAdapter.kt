@@ -27,6 +27,8 @@ constructor(
         )
     }
 
+    //comment check
+
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
         val model = list[position]
 
